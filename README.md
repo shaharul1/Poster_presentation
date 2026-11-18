@@ -1,5 +1,5 @@
-<h1 align="center"></h1>
-<h3 align="center">Application of Generalized Linear Models for Vector-Borne Disease Forecasting in Bangladesh</h3>
+<h1 align="center">Application of Generalized Linear Models for Vector-Borne Disease Forecasting in Bangladesh</h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [vector_borne diseases](https://github.com/shaharul1/Poster_presentation/blob/main/DengueProject.ipynb,https://github.com/shaharul1/Poster_presentation/blob/main/MalariaProject.ipynb)
 
