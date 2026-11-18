@@ -1,9 +1,15 @@
 <h1 align="center">Application of Generalized Linear Models for Vector-Borne Disease Forecasting in Bangladesh</h1>
-<h3 align="center"></h3>
+
+
+<h2 align="center">Under the Guidance of</h2>
+<h4 align="center">Dr. Md. Siddikur Rahman</h4>
+<h6 align="center">Head of The Department, Department of Statistics</h6>
+<h6 align="center">Begum Rokeya University, Rangpur</h6>
+
 
 - 🔭 I’m currently working on [vector_borne diseases](https://github.com/shaharul1/Poster_presentation/blob/main/DengueProject.ipynb,https://github.com/shaharul1/Poster_presentation/blob/main/MalariaProject.ipynb)
 
-- Under the Guidance of **Dr. Md. Siddikur Rahman, Head of The Department, Department of Statistics Begum Rokeya University, Rangpur**
+
 
 - 📫 How to reach me **shaharulislam771@gmail.com**
 
